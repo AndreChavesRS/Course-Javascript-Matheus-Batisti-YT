@@ -12,3 +12,4 @@ console.log(falso)
 console.log(typeof falso);
 
 // var false = 3; -- Nome reservado pelo sistema
+
